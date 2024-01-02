@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**nuwan93/nuwan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi there, I'm Nuwan Wickramarachchi!
 
 - 🌱 I’m a **Full Stack Developer** passionate about building efficient and scalable web solutions.
