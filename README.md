@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Nuwan Wickramarachchi!
 
-- 🌱 I’m a **Full Stack Developer** passionate about building efficient and scalable web solutions.
-- 🔧 Skilled in **React, Redux, Node, Express, TypeScript**, with expertise in **Version Control** and **Database Management**.
+- 🌱 I'm a tech enthusiast experienced in providing top-notch technical support and passionate about solving challenging problems in the SaaS industry.
+- 🔧 Skilled in **HTML, CSS, JavaScript, React** and proficient in **debugging** and **troubleshooting** technical issues.
 - 📚 Currently pursuing an MSC in Information Systems at the University of Jyväskylä.
-- 🏢 Former Head Support Team and Software Developer at Assetowl.
+- 🏢 **Former Head Support Team** and Software Developer at Assetowl.
 - 🏆 Top-rated talent on Upwork with a 100% job success rate.
 
 ## 📫 How to reach me:
