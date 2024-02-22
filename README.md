@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nuwan Wickramarachchi!
 
-- 🌱 I'm a tech enthusiast experienced in providing top-notch technical support and passionate about solving challenging problems in the SaaS industry.
+- 🌱 I'm a tech enthusiast experienced in providing top-notch technical support and passionate about solving challenging problems.
 - 🔧 Skilled in **HTML, CSS, JavaScript, React** and proficient in **debugging** and **troubleshooting** technical issues.
 - 📚 Currently pursuing an MSC in Information Systems at the University of Jyväskylä.
 - 🏢 **Former Head Support Team** and Software Developer at Assetowl.
