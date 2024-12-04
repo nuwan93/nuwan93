@@ -3,7 +3,7 @@
 - 🌱 I'm a tech enthusiast experienced in providing top-notch technical support and passionate about solving challenging problems.
 - 🔧 Skilled in **HTML, CSS, JavaScript, React** and proficient in **debugging** and **troubleshooting** technical issues.
 - 📚 Currently pursuing an MSC in Information Systems at the University of Jyväskylä.
-- 🏢 **Former Head Support Team** and Software Developer at Assetowl.
+- 🏢 **Former Head of Data Onboarding** and Support Engineer at Assetowl.
 - 🏆 Top-rated talent on Upwork with a 100% job success rate.
 
 ## 📫 How to reach me:
